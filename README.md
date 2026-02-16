@@ -1,5 +1,6 @@
 # Goldberg Steam Emu - Compatibility list
 List of games compatible with Goldberg Steam Emu
+
 Check out cs.rin.ru if you want more information about cracking games and which games are working
 
 ---
